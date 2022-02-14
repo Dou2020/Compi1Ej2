@@ -708,7 +708,7 @@ public class lexicoEjercicio2 {
       else {
         switch (zzAction < 0 ? zzAction : ZZ_ACTION[zzAction]) {
           case 1:
-            { System.out.println("Hay un error en el programa");
+            { System.out.println("Se salta esta parte");
             }
             // fall through
           case 8: break;
